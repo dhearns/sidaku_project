@@ -6,4 +6,4 @@ The purpose of developing this system is to automate the administration and save
 Not only for those purposes, in this project, I also made a features for SMEs' owner to analyze their SMEs (bullwhip effect and average supplier performance) by collaborating with some friends from Faculty of Agricultural Technology.
 However, this code did not used by PLUT-KUMKM, this code is only for my final thesis.
 
-**Copyright Universitas Brawijaya**
+**Copyright © 2023 Universitas Brawijaya**
